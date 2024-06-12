@@ -10,6 +10,8 @@
   final String image;
   final String procend;
   final String emblemb;
+
+  get length => null;
 }
 
 List<AptekaModel> continents = [s1, s2, s3, s4, s5, s6, s7, s8, s9, s10];
